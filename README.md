@@ -1,5 +1,14 @@
 # Requirement Analysis in Software Development
 
+## 🧐 What is Requirement Analysis?
+
+Requirement Analysis is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system.  
+It ensures that developers understand what to build and that the final product aligns with business objectives.
+
+> ✅ **Check:** Ensure that the section you created in the README.md file is titled **“What is Requirement Analysis?”**
+
+---
+
 ## 📘 Introduction
 This repository is dedicated to exploring and documenting the process of **Requirement Analysis** in software development.  
 It includes definitions, examples, and practical exercises focused on understanding **functional and non-functional requirements**, **use case diagrams**, and the **importance of requirement validation** within the Software Development Life Cycle (SDLC).
